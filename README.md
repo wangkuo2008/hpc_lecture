@@ -1,5 +1,5 @@
 # hpc_lecture
-
+20M12211 Wang Xinmiao
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
